@@ -1,4 +1,3 @@
-SuperSatan
-==========
+# SuperSatan
 
-Adding HTML5 &lt;video> tag support to GRUB and LILO (with Java and Haskel)
+Making true ARS-developer-life simulator. WTF, LULZ, OMG required.
