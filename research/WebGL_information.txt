@@ -1,0 +1,18 @@
+Web Graphic Library - технология для отображения 3Д-графики в браузере, с честным аппаратным ускорением. Для программирования используются javascript, canvas.
+
+Завлекалочки - http://www.chromeexperiments.com/ (многие демки очень так даже ничего)
+
+
+Версия 1.0 была выпущена в 2011 году. Вписались Mozilla, Apple, Google, Opera. Для IE есть сторонние модули.
+
+Для запуска webGL-приложений нужна свежая версия браузера + видеокарта с подходящими драйверами.
+
+
+На амазоне есть книги:
+	"WebGL: Up and Running", Tony Parisi, august 2012
+	"WebGL Beginner's Guide", Diego Cantor, Brandon Jones, June, 2012
+	"HTML5 Games: Creating Fun with HTML5, CSS3, and WebGL", Jacob Seidelin, December 2011
+
+Актуальные фреймворки:
+	https://github.com/mrdoob/three.js
+	https://github.com/xeolabs/scenejs
